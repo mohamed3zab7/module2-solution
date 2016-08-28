@@ -1,0 +1,76 @@
+.container {
+   width: 1200px;
+} 
+
+.content{
+  width: 100%
+}
+
+#heading {
+   font-size:40px;
+   margin:0 auto;
+   padding: 20px ;
+   text-align:center;
+}
+
+#firstsection {
+  background-color:#C6C6C6;
+  width:350px ; height:150px;
+  border: 1px solid; padding: 0px ;
+  align: center; margin:20px;
+}
+.chick {
+  text-align:right; 
+  padding:2px 20px 5px 5px ;
+  border:1px solid ;
+  margin: 1px 1px 1px 235px ;
+  background-color: #D59898;
+}
+
+.para1 {
+  padding:0px 10px 5px 5px
+}
+
+#secondsection {
+  background-color:#C6C6C6;
+  width:350px ; height:150px;
+  border: 1px solid; padding: 0px ;
+  margin:0 auto ; align: center;
+  margin:20px;
+}
+.beef {
+  text-align:right; 
+  padding:2px 20px 5px 5px ;
+  border:1px solid ;
+  margin: 1px 1px 1px 267px ;
+  background-color: #C14543;
+}
+
+.para2 {
+  padding:0px 10px 5px 5px
+}
+
+#thirdsection {
+  background-color:#C6C6C6;
+  width:350px ; height:150px;
+  border: 1px solid; padding: 0px ;
+  margin:0 auto ; 
+  align: left; margin:20px;
+}
+.suchi {
+  text-align:right; 
+  padding:2px 20px 5px 5px ;
+  border:1px solid ;
+  margin: 1px 1px 1px 255px ;
+  background-color: #E5D198;
+}
+
+.para3 {
+  padding:0px 10px 5px 5px
+}
+
+section {
+  float:left;
+  width:1200px;
+  margin: 0px auto;
+}
