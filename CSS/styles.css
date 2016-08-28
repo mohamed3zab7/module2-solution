@@ -4,4 +4,9 @@
 
 .content{
   width: 100%
-}`
+}
+
+#heading {
+   font-size:100%;
+   margin:20px auto;
+}
